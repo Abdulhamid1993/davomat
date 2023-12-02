@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card{
+  border: 1px solid #000;
+  width: 150px;
+  height: 250px;
+  margin: 25px;
+ 
+}
+.cardBola{
+  border: 1px solid #000;
+  width: px;
+  height: px;
+  margin: 25px;
+  padding: 25px;
+}
+.opoqisi{
+  display: flex;
+  align-items: center;
+}
+.imgcart{
+  width: 150px;
+  
+}
+
+.text_num p{
+  display: flex;
+}
+
+.dark {
+  background: #000;
+
+}
+.light{
+  background: green;
+}
+.text_num{
+  display: flex;
+  align-items: center;
+}
+.text_num p {
+  margin-right: 20px;
+}
